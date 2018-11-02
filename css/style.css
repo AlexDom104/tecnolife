@@ -1,0 +1,19 @@
+body{
+  font-size: 25px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.Kodchasan{
+  font-family: 'Kodchasan', sans-serif;
+}
+.main-header{
+  background-color:rgb(19,174,178);
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:15px;
+  padding-botton:15px;}
+.nav-link{color:white;margin-right:10px;}
+.titular-text{color:rgb(19,174,178);}
+.logo{text-align:center;margin-top:10px;}
+.main-container {
+  min-height: 100%:
+}
